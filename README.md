@@ -11,26 +11,18 @@ I'm a Senior Software Engineer in Test 👨🏻‍💻 based in Porto, Portugal.
 
 ### Talking about Personal Stuffs:
 
+- 🔭 I’m currently working on [@Blip.pt](https://blip.pt/)
+- :heart: Co-founder on [Minas Testing Conference](https://minastestingconference.com.br/)
 - 🛠 &nbsp; I’m currently working with Nodejs, React, Docker, <br /> Graphql, WebdriverIO, Appium, etc.
 - 🚀 &nbsp; I’m currently learning Typescript and React-Native.
+- 💬 Ask me about test automation and software quality
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/fredmoreira).
 - 📫 &nbsp; How to reach me: fredmacc@gmail.com.
+- 😄 Pronouns: He/Him
 
 ### My Absolute Favorites:
 
 - 💻 &nbsp; Proficient in testing in different platforms (e.g. mobile, web and APIs).
 - 📰 &nbsp; Strong interest in new technologies with quick adoption and innovation mind.
-- 🍕 &nbsp; Experience in testing in a microservices architecture.
-
-### Languages and Tools:
-
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql"></code>
-<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
-
-### Projects and Dev Stuffs:
-
+- 🚀 &nbsp; Experience in testing in a microservices architecture.
+- 🍕 &nbsp; Over 12 years of experience working with quality in its many levels.
