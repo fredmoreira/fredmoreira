@@ -11,8 +11,8 @@ I'm a Senior Software Engineer in Test 👨🏻‍💻 based in Porto, Portugal.
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, React-Native, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 🛠 &nbsp; I’m currently working with Nodejs, React, Docker, <br /> Graphql, WebdriverIO, Appium, etc.
+- 🚀 &nbsp; I’m currently learning Typescript and React-Native.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/fredmoreira).
 - 📫 &nbsp; How to reach me: fredmacc@gmail.com.
 
