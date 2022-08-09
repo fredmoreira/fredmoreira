@@ -11,7 +11,7 @@ I'm a Senior Software Engineer in Test 👨🏻‍💻 based in Porto, Portugal.
 
 ### Talking about Personal Stuffs:
 
-- 🔭 I’m currently working at [@Blip.pt](https://blip.pt/) | [@PaddyPower Betfair](https://paddypowerbetfair.jobs/)
+- 🔭 I’m currently working at [@tamanna.com](https://www.tamanna.com/careers/jobs)
 - :heart: Co-founder on [Minas Testing Conference](https://minastestingconference.com.br/)
 - 🛠 &nbsp; I’m currently working with Nodejs, React, Docker, <br /> Graphql, WebdriverIO, Appium, etc.
 - 🚀 &nbsp; I’m currently learning Typescript and React-Native.
