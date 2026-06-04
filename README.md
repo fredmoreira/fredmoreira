@@ -11,7 +11,7 @@ I'm a Software Engineer Manager 👨🏻‍💻 based in Porto, Portugal. I aim 
 
 ### Talking about Personal Stuffs:
 
-- 🔭 I’m currently working at [@Gympass](https://gympass.com/en-us)
+- 🔭 I’m currently working at [@Wellhub](https://wellhub.com/en-us/)
 - :heart: Co-founder on [Minas Testing Conference](https://minastestingconference.com.br/)
 - 🛠 &nbsp; I’m currently working with Nodejs, React, Docker, <br /> Graphql, WebdriverIO, Appium, Maestro, Sentry, etc.
 - 🚀 &nbsp; I’m currently working with Typescript and React-Native.
