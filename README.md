@@ -7,7 +7,7 @@
 
 
 ### Glad to see you here! 
-I'm a Senior Software Engineer in Test 👨🏻‍💻 based in Porto, Portugal. I aim to help people 💡 to build web and mobile applications but also APIs ✨ always trying applying best practices of software development🤓.
+I'm a Software Engineer Manager 👨🏻‍💻 based in Porto, Portugal. I aim to help people 💡 build web and mobile applications, as well as APIs ✨, always applying best practices in software development 🤓.
 
 ### Talking about Personal Stuffs:
 
