@@ -13,8 +13,8 @@ I'm a Software Engineer Manager 👨🏻‍💻 based in Porto, Portugal. I aim 
 
 - 🔭 I’m currently working at [@Gympass](https://gympass.com/en-us)
 - :heart: Co-founder on [Minas Testing Conference](https://minastestingconference.com.br/)
-- 🛠 &nbsp; I’m currently working with Nodejs, React, Docker, <br /> Graphql, WebdriverIO, Appium, etc.
-- 🚀 &nbsp; I’m currently learning Typescript and React-Native.
+- 🛠 &nbsp; I’m currently working with Nodejs, React, Docker, <br /> Graphql, WebdriverIO, Appium, Maestro, Sentry, etc.
+- 🚀 &nbsp; I’m currently working with Typescript and React-Native.
 - 💬 Ask me about test automation and software quality
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/fredmoreira).
 - 📫 &nbsp; How to reach me: fredmacc@gmail.com.
@@ -22,7 +22,7 @@ I'm a Software Engineer Manager 👨🏻‍💻 based in Porto, Portugal. I aim 
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; Proficient in testing in different platforms (e.g. mobile, web and APIs).
-- 📰 &nbsp; Strong interest in new technologies with quick adoption and innovation mind.
+- 💻 &nbsp; Proficient in testing on different platforms (e.g., mobile, web, and APIs).
+- 📰 &nbsp; Strong interest in new technologies with a quick adoption and innovation mindset.
 - 🚀 &nbsp; Experience in testing in a microservices architecture.
-- 🍕 &nbsp; Over 12 years of experience working with quality in its many levels.
+- 🍕 &nbsp; Over 15 years of experience working with quality in its many levels.
